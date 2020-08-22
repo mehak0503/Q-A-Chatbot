@@ -6,3 +6,7 @@ An insight into one of the major challenges in AI i.e. to describe long term dep
 
 These tasks are evaluated on a toy dataset termed as bABI dataset provided by Facebook AI Research.
 
+## [Link for Pre-trained BERT Model](https://www.dropbox.com/s/8jnulb2l4v7ikir/model.zip)
+
+Download and add the model to task2/model/ directory.  
+
