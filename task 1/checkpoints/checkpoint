@@ -1,0 +1,6 @@
+model_checkpoint_path: "MemN2N.model-6260"
+all_model_checkpoint_paths: "MemN2N.model-3756"
+all_model_checkpoint_paths: "MemN2N.model-4382"
+all_model_checkpoint_paths: "MemN2N.model-5008"
+all_model_checkpoint_paths: "MemN2N.model-5634"
+all_model_checkpoint_paths: "MemN2N.model-6260"
